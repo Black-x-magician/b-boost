@@ -3,7 +3,7 @@ To get started with B-Boost, first ensure that you have the [Termux](https://f-d
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git python-pip tesseract
-$ git clone https://github.com/RozhakXD/B-boost.git
+$ git clone https://github.com/Black-x-magician/b-boost.git
 $ cd "B-boost"
 $ pip install -r requirements.txt
 $ python Run.py
